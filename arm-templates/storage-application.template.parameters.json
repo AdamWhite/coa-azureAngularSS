@@ -12,7 +12,7 @@
             "value": "#{SITE_STORAGE_ACCOUNT_NAME}#.z35.web.core.windows.net"
         },
         "siteUrl": {
-            "value": "www.codewithadam.com"
+            "value": "#{SITE_URL}#"
         }
     }
 }
